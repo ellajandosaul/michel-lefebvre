@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Michel Lefebvre" ] },
+    "summary": { "en": [ "This project is a study of a recording of Michel Lefebvre performing with unnamed others at the Utlimatum Urban Poetry Festival in Montreal in 1985. It explores the relationship between poetry, music, and lyrics. " ] },
+    "items": [
+    ]
+}
