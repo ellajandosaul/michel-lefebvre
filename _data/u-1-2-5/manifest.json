@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://ellajandosaul.github.io/michel-lefebvre/u-1-2-5/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "U-1-2-5" ] },
+    "label": { "en": [ "Recording of the Performance" ] },
     "homepage": [
       {
         "id": "https://files.spokenweb.ca/",
         "type": "Text",
-        "label": { "en": [ "U-1-2-5" ] },
+        "label": { "en": [ "Recording of the Performance" ] },
         "format": "text/html"
       }
     ],
