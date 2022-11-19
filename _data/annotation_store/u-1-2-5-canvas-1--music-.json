@@ -80,28 +80,6 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": "https://ellajandosaul.github.io/michel-lefebvre/u-1-2-5/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "28.452500"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-4.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
         "value": "\"Noise; loud; distinct high and low frequencies working together \"",
         "format": "text/plain",
         "purpose": "commenting"
@@ -116,7 +94,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-5.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -138,7 +116,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-6.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -160,7 +138,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-7.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -182,7 +160,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-8.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -204,7 +182,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-9.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -226,7 +204,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-10.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -248,7 +226,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-11.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -270,7 +248,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-12.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -292,7 +270,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-13.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -314,7 +292,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-14.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -336,7 +314,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-15.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -358,7 +336,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-16.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-15.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -380,7 +358,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-17.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -402,7 +380,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-18.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -424,7 +402,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-19.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -446,7 +424,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-20.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -468,7 +446,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "u-1-2-5-canvas-1--music--annotation-21.json",
+      "id": "u-1-2-5-canvas-1--music--annotation-20.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
