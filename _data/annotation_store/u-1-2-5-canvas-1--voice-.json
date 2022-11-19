@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Feminine sounding voice; clear; not   particularly high; speaking with loud, long, steady vowels like you might hear from someone speaking from divine inspiration or reciting an incantation  \"",
+        "value": "85.597200",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -36,7 +36,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Masculine sounding voice; clear; not particularly low; speaking in the same way as the first voice, but ahead by a fraction of a second\"",
+        "value": "85.597000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -58,7 +58,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"More voices join in; quieter; difficult to tell how many; all are speaking in chorus\"",
+        "value": "85.597000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -80,15 +80,15 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Masculine sounding voice; husky, like he is speaking under his breath, a villainous sounding voice, but it is louder and clearer than the others, closer to the microphone; starts from the beginning of the line the chorus spoke together, while the chorus continues with a new line; the meaning of the words becomes clearer\"",
+        "value": "81.718400",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://ellajandosaul.github.io/michel-lefebvre/u-1-2-5/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "75.171500"
+          "type": "RangeSelector",
+          "t": "75.171500,81.718400"
         }
       }
     },
@@ -102,7 +102,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Feminine voice starts again\"",
+        "value": "126.474000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -124,15 +124,15 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Feminine sounding voice; clear; very high; vowels still long and steady, but the hight of the voice removes the religious/incatation impression\"",
+        "value": "162.643000",
         "format": "text/plain",
         "purpose": "commenting"
       },
       "target": {
         "source": "https://ellajandosaul.github.io/michel-lefebvre/u-1-2-5/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "142.483000"
+          "type": "RangeSelector",
+          "t": "142.483000,162.643000"
         }
       }
     },
@@ -146,7 +146,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Masculine sounding voice; changes from clearer to huskier; speaking fairly fast, but elongating some vowels and adding a vibrato\"",
+        "value": "184.794000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -168,7 +168,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Masculine sounding voice; very husky to the point of sounding unnatural, like a teenager in a school play pretending to speak his last words\"",
+        "value": "230.832000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -190,7 +190,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Other masculine sounding voices start; very high; signing but with no discernible melody\"",
+        "value": "289.580000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -212,7 +212,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Clear, masculine sounding voice becomes the prominent one\"",
+        "value": "289.605000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -234,7 +234,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Husky voice changes to a whisper, very close to the microphone\"",
+        "value": "266.395000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -256,7 +256,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Villainous voice starts a voiced inhale that sounds like a dying breath\"",
+        "value": "273.825000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -278,7 +278,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Masculine sounding voice makes two short vowel sounds\"",
+        "value": "293.950000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -300,7 +300,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Short gasp/moan/grunt\"",
+        "value": "294.930000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -322,7 +322,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Many voices, masculine and feminine, start with the sound aaah; they are speaking the word orgueil with different volumes, clarity, and vowel length; some repeat the word, other never make it past the first vowel\"",
+        "value": "321.523000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -344,7 +344,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Voices become very muffled\"",
+        "value": "329.130000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -366,7 +366,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"The voices start again with the word organe\"",
+        "value": "344.473000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -388,7 +388,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Voices muffled again\"",
+        "value": "348.373000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -410,7 +410,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Voices start again with what sounds like the word histourie\"",
+        "value": "370.721000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -432,7 +432,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Feminine sounding voice; clear; not particularly high; speaking with incantation voice again\"",
+        "value": "399.931000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -454,7 +454,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Villainous masculine voice starts again\"",
+        "value": "415.795000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -476,7 +476,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Feminine incantation voice \"",
+        "value": "591.978000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -498,7 +498,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Many voices start, but they are saying different things at different times, until they start to merge into a chorus\"",
+        "value": "622.803000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -520,7 +520,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Masculine sounding operatic voice; deep but high? (there is likely a term for this kind of voice)\"",
+        "value": "658.643000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -542,7 +542,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Feminine sounding operatic voice; very high\"",
+        "value": "658.638000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -564,7 +564,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Operatic voices melt into a medley of voices, masuline and feminine, husky and clear, low to almost painfully high, all starting and stopping without pattern\"",
+        "value": "673.027000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -586,7 +586,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Voices merge into a long vowel that rises into something like a wooh!\"",
+        "value": "676.624000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -608,7 +608,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Gravelly voice, ach\"",
+        "value": "678.897000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -630,7 +630,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Two voices begin singing what sounds like a rock song; one is gravelly, the other very high and clear; some other voices join to make simple, non-linguistic sounds\"",
+        "value": "691.621000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -652,7 +652,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"A clear, masculine sounding voice says: Le soleil se l_ve dans ta gueule et se couche dans ton assiette; he sounds on the verge of laughter, nad the end of his sentence goes very high, like a child making a ridiculous joke\"",
+        "value": "701.224000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -674,7 +674,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Villainous voice starts again\"",
+        "value": "723.438000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -696,7 +696,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"A masculine osunding voice begins speaking with a French accent and a haughty, official tone; the vowels are elongated like the incantation voice, but now it sounds like a royal proclamation in a high school play\"",
+        "value": "811.081000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -718,7 +718,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Some low voices, bearly audible\"",
+        "value": "817.381000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -740,7 +740,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Some voices cry out faintly \"",
+        "value": "893.583000",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -762,7 +762,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Another soft cry\"",
+        "value": "914.468000",
         "format": "text/plain",
         "purpose": "commenting"
       },
