@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://ellajandosaul.github.io/michel-lefebvre/annotations/u-1-2-5-canvas-1--voice-.json",
-            "label": {
-              "none": ["\"Voice\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://ellajandosaul.github.io/michel-lefebvre/annotations/u-1-2-5-canvas-1--music-.json",
             "label": {
               "none": ["\"Music\""]
