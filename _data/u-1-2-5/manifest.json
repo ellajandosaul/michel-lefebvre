@@ -23,16 +23,6 @@
         "id": "https://ellajandosaul.github.io/michel-lefebvre/u-1-2-5/canvas-1/canvas",
         "type": "Canvas",
         "duration": 971.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://ellajandosaul.github.io/michel-lefebvre/annotations/u-1-2-5-canvas-1--music-.json",
-            "label": {
-              "none": ["\"Music\""]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://ellajandosaul.github.io/michel-lefebvre/u-1-2-5/canvas-1/paintings",
