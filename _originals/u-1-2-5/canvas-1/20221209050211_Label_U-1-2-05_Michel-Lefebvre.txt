@@ -47,7 +47,7 @@
 "Voice"	646.667000	658.638000	"Feminine sounding operatic voice; very high"
 "Voice"	658.632000	673.027000	"Operatic voices melt into a medley of voices, masuline and feminine, husky and clear, low to almost painfully high, all starting and stopping without pattern"
 "Voice"	673.027000	676.624000	"Voices merge into a long vowel that rises into something like a wooh!"
-"Voice"	676.624000	678.897000	"Gravelly voice says \\"
+"Voice"	676.624000	678.897000	"Gravelly voice says ach"
 "Voice"	678.897000	691.621000	"Two voices begin singing what sounds like a rock song; one is gravelly, the other very high and clear; some other voices join to make simple, non-linguistic sounds"
 "Voice"	695.868000	701.224000	"A clear, masculine sounding voice says: Le soleil se l_ve dans ta gueule et se couche dans ton assiette; he sounds on the verge of laughter, nad the end of his sentence goes very high, like a child making a ridiculous joke"
 "Voice"	701.224000	723.438000	"Masculine, husky, villainous voice starts again"
